@@ -1,22 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Tektur:wght@500&display=swap');
 
 h1 {
+    text-align: center;
     font-family: 'Tektur', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .soundboard {
     margin: 35px;
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 }
 
-
-
 .soundboard-button {
-    width: 100px;
-    height: 50px;
+    width: 20%;
+    height: 100px;
     background-color: rgb(107, 107, 255);
+    border: 10px ridge darkblue;
     font-family: 'Tektur', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 3s;
+}
+
+.soundboard-button:active { 
+    background-color: white;
 }
