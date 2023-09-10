@@ -9,7 +9,7 @@ let SOUNDBOARD = {
     "Angry" : "meow (3).m4a",
     "Gay Bars™" : "gay_bars.m4a",
     "Fustrated" : "meow (1).m4a",
-    "The Big Announcement" : "the_big_announcement",
+    "The Big Announcement" : "the_big_announcement.m4a",
     "Leftovers" : "leftovers.m4a",
     "Disappointment" : "meow (2).m4a",
     "Chickfla Sauce" : "chickfla_sauce.m4a",
