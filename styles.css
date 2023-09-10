@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@500&display=swap');
+
+h1 {
+    font-family: 'Tektur', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.soundboard {
+    margin: 35px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+
+.soundboard-button {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(107, 107, 255);
+    font-family: 'Tektur', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
