@@ -18,6 +18,7 @@ body {
 }
 
 .soundboard-button {
+    color: black;
     width: 30%;
     height: 100px;
     background-color: rgb(107, 107, 255);
